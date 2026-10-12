@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #222;
+    font-family: 'Roboto', Arial, sans-serif;
+    line-height: 1.5;
+}
+
+header {
+    background-color: #5a1625;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+}
+
+main {
+    background-color: white;
+    max-width: 750px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+h2 {
+    color: #5a1625;
+}
+
+.photo {
+    width: 350px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.credit {
+    font-size: 12px;
+}
+
+.video {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    border: 0;
+}
